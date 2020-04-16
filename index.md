@@ -1,12 +1,4 @@
-## Testing this website
+This is the personal website of Alice Mosberger
 
-This is a test to see if this works
+Twitter: @AliceCMo
 
-# important stuff here
-
-## less important here
-
-### some notes here
-
-''' what does this do?
-''' words
