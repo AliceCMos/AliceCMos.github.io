@@ -1,5 +1,3 @@
-This is the personal website of Alice Mosberger
-
 I am postdoctoral fellow in the lab of Rui Costa <a href="https://www.actingbrain.com/alice-mosberger"> actingbrain.com </a>
 at the  <a href="https://zuckermaninstitute.columbia.edu/"> Zuckerman Institute </a> at Columbia University
 
