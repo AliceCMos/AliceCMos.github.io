@@ -1,4 +1,4 @@
-I am postdoctoral fellow in the lab of Rui Costa <a href="https://www.actingbrain.com/alice-mosberger"> actingbrain.com </a>
+I am postdoctoral fellow in the lab of Rui Costa <a href="https://www.actingbrain.com/alice-mosberger"> (actingbrain.com) </a>
 at the  <a href="https://zuckermaninstitute.columbia.edu/"> Zuckerman Institute </a> at Columbia University.
 
 My goal is to gain a circuit-level understanding of how skilled actions are learned. I am particularly interested in how the brain establishes a causal relationship between actions and their outcomes, allowing the reselection of exploratory movements and their refinement into skills through reinforcement mechanisms.
